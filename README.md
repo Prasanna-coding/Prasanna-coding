@@ -41,5 +41,5 @@ A collection of structured analyst write-ups simulating Tier-1 SOC ticket triagi
 ---
 
 ## 📬 Connect with Me
-*   **LinkedIn:** [Your LinkedIn Profile URL]
+*   **LinkedIn:** [https://www.linkedin.com/in/prasannavenkateshk007/]
 *   **Location:** Chennai, India 🇮🇳
